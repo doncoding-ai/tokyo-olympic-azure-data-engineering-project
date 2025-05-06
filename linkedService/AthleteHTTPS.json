@@ -1,0 +1,12 @@
+{
+	"name": "AthleteHTTPS",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "htpps://raw.githubusercontent.com/doncoding-ai/tokyo-olympic-azure-data-engineering-project/raw/refs/heads/main/data/Athletes.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
