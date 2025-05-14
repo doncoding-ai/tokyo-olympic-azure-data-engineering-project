@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com/doncoding-ai/tokyo-olympic-azure-data-engineering-project/blob/6d2bce9733137dbe77f5678dd13c91df0d86cfa7/data/Coaches.csv",
+			"url": "https://github.com/doncoding-ai/tokyo-olympic-azure-data-engineering-project/raw/refs/heads/main/data/Coaches.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
